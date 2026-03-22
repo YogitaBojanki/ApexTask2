@@ -36,6 +36,7 @@ This project is a responsive Login and Registration user interface developed usi
 ---
 
 ## 📁 Project Structure
+```
 Task2/
 │── login.html
 │── register.html
@@ -43,7 +44,7 @@ Task2/
 │── script.js
 │── README.md
 
-
+```
 ---
 
 ## 🚀 How to Run
@@ -54,9 +55,10 @@ Task2/
 ---
 
 ## 📌 Demo
-Live Demo: (Add your GitHub Pages link here)
+Live Demo: 
 
----
+https://yogitabojanki.github.io/ApexTask2/login.html
+https://yogitabojanki.github.io/ApexTask2/register.html
 
 Updated by Yogita Bojanki
 
