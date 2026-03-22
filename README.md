@@ -49,7 +49,7 @@ Task2/
 
 ## 🚀 How to Run
 1. Download or clone the repository
-2. Open `login.html` in any browser
+2. Open `index.html` in any browser
 3. Navigate between Login and Register pages
 
 ---
