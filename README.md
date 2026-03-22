@@ -57,8 +57,7 @@ Task2/
 ## 📌 Demo
 Live Demo: 
 
-https://yogitabojanki.github.io/ApexTask2/login.html
-https://yogitabojanki.github.io/ApexTask2/register.html
+https://yogitabojanki.github.io/ApexTask2/
 
 Updated by Yogita Bojanki
 
