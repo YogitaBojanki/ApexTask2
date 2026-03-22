@@ -58,5 +58,7 @@ Live Demo: (Add your GitHub Pages link here)
 
 ---
 
+Updated by Yogita Bojanki
+
 ## 📬 Author
 Yogita Bojanki
