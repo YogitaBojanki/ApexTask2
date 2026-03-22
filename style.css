@@ -21,11 +21,13 @@ body{
 .success{
   background:#d4edda;
   color:#155724;
+  font-weight:500;
 }
 
 .error{
   background:#f8d7da;
   color:#721c24;
+  font-weight:500;
 }
 
 /* Card */

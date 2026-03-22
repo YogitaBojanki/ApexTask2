@@ -12,7 +12,7 @@ function togglePassword(id, icon){
   }
 }
 
-// ===== Show Message inside card =====
+// ==== Show Message inside card ====
 function showMessage(msg, type){
   const box = document.getElementById("messageBox");
 
@@ -29,12 +29,12 @@ function showMessage(msg, type){
   }, 3000);
 }
 
-// ===== Strong Password Validation =====
+// ==== Strong Password Validation ====
 function isValidPassword(password){
   return /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$/.test(password);
 }
 
-// ===== LOGIN =====
+// ==== LOGIN ====
 const loginForm = document.getElementById("loginForm");
 
 if(loginForm){
